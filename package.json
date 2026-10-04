@@ -4,5 +4,7 @@
   "private": true,
   "dependencies": {
     "@google-cloud/dialogflow": "^6.10.0"
-  }
+  },
+  "author": "Jose Luis Mas García",
+  "description": "CampusBot - Práctica individual de Asistentes Conversacionales"
 }

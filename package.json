@@ -1,0 +1,8 @@
+{
+  "name": "campusbot-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@google-cloud/dialogflow": "^6.10.0"
+  }
+}
